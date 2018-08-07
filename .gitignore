@@ -81,3 +81,7 @@ fabric.properties
 *.zip
 *.tar.gz
 *.rar
+*.iml
+.idea/modules.xml
+.idea/vcs.xml
+*.xml
