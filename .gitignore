@@ -85,3 +85,19 @@ fabric.properties
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+.idea/BOJ.iml
+.idea/modules.xml
+.idea/vcs.xml
+Q11720/.idea/
+Q11720/Q11720.iml
+Q11720/src/
+Q11721/.idea/
+Q11721/Q11721.iml
+Q11721/src/
+Q1924/.idea/
+Q1924/Q1924.iml
+Q1924/src/
+Q8393/
+Template/.idea/
+Template/Template.iml
+Template/src/Main.java
